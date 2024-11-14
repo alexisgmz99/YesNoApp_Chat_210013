@@ -2,4 +2,4 @@
 
 
 ### AUTOR
-Elaborado por:  Alexis Gomez
+Elaborado por: Alexis Gomez Gaona
