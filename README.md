@@ -2,4 +2,4 @@
 
 
 ### AUTOR
-Elaborado por: Janeth Ahuacatitla Amixtlan [@Janeth-Ahuacatitla](https://github.com/Janeth-Ahuacatitla)
+Elaborado por:  Alexis Gomez
