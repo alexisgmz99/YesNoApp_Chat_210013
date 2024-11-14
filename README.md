@@ -1,2 +1,5 @@
-# YesNoApp_Chat_210013
-YesnoApp proyecto
+# yes_no_app
+
+
+### AUTOR
+Elaborado por:  Alexis Gomez
