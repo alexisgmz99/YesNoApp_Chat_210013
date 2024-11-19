@@ -32,7 +32,7 @@ Interfaz visual: El diseño incluye un chat interactivo con mensajes en tiempo r
 
 # VISUALIZACION DE CHAT
 EL CHAT SE MUESTRA DE ESTA FORMA
-<a href="https://ibb.co/gt76hFt"><img src="https://i.ibb.co/gt76hFt/Whats-App-Image-2024-11-19-at-9-48-26-AM.jpg" alt="Whats-App-Image-2024-11-19-at-9-48-26-AM" border="0"></a>
+<a href="https://ibb.co/gt76hFt"><img src="https://i.ibb.co/9yvGS3y/Whats-App-Image-2024-11-19-at-9-48-26-AM.jpg" alt="Whats-App-Image-2024-11-19-at-9-48-26-AM" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'>como subir una imagen a google desde un celular</a><br />
 
 
 # ENVIAR MENSAJE
