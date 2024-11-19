@@ -1,6 +1,13 @@
 # Flutter-yes-no-app-210013
 aplicacion de flutter
 
+
+### HISTORIAL DE PRACTICAS
+|NO.|NOMBRE|POTENCIADOR|ESTATUS|
+|--|--|--|--|
+|22|Implementación de la UI para la Aplicación de Yes/No|10|ACTIVA
+|23|Implementación de la Funcionalidad de la Aplicación de Yes/No	|10|ACTIVA|
+
 # Datos del Estudiante
 Nombre: Alexis Gomez
 Carrera: Ingeniería en Desarrollo y Gestión de Software
