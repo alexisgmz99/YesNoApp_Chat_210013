@@ -17,7 +17,7 @@ class ChatProvider extends ChangeNotifier {
     final newMessage = Message(text: text, fromWho: FromWho.me);
     messageList.add(newMessage);
 
-    if (text.endsWith('aun me amas?')) {
+    if (text.endsWith('?')) {
       herReply();
     }
 
