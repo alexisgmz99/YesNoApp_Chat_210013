@@ -1,5 +1,4 @@
-# yes_no_app
+# Flutter-yes-no-app-210013
+aplicacion de flutter
 
 
-### AUTOR
-Elaborado por:  Alexis Gomez
