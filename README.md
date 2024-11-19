@@ -36,7 +36,7 @@ EL CHAT SE MUESTRA DE ESTA FORMA <br><br><br>
 
 
 # ENVIAR MENSAJE
-PARA QUE EL CHAT RESPONDA, ES FACIL ENVIANDO UN MENSAJE, DONDE SE UTILICE " ? " Y EL CHAT RESPONDERA CON UN NO O SI, VISUALIZANDO "mi amor esta enviando un mensaje"
+PARA QUE EL CHAT RESPONDA, ES FACIL ENVIANDO UN MENSAJE, DONDE SE UTILICE " ? " Y EL CHAT RESPONDERA CON UN NO O SI, VISUALIZANDO "mi amor esta enviando un mensaje"<br><br><br>
 <a href="https://ibb.co/PMZmNhK"><img src="https://i.ibb.co/m0CDGqk/Whats-App-Image-2024-11-19-at-9-48-25-AM-1.jpg" alt="Whats-App-Image-2024-11-19-at-9-48-25-AM-1" border="0"></a>
 
 
